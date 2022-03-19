@@ -1,5 +1,5 @@
 {
-	"name" : "hello/world",
+	"name" : "khrokalo/testpack",
 	"description" : "first package",
 	"autoload" : {
 		"psr-4" : {
